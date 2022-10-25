@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cjpanda
+- 👋 Hi, I’m Benedict Umenzekwe and my handle is @cjpanda
 - 👀 I’m interested in Full Stack Engineering 
 - 🌱 I’m currently learning Python and after that Javascript 
 - 💞️ I’m looking to collaborate on python projects like Django Web Development projects ,Automation Scripts ... 
