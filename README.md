@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Benedict Umenzekwe and my handle is @cjpanda
-- 👀 I’m interested in Python , Full Stack Web Development  
+- 👋 Hi, I’m Benedict Umenzekwe, 
+- 👀 I’m interested in Python , Javascript, CSS, HTML. 
 - ⚙️ I use daily: Python, HTML, CSS, Django, Photoshop 
-- 🌱 I’m currently learning  all about Python and Javascript
+- 🌱 I’m currently learning  all about Python (Front end and Back end Web development) using Libs such as Django ...
 - 🤔 I’m looking for help with Building Web Development Projects on Django Web Applications. 
 - 💞️ I’m looking to collaborate on python projects like Django Web Development projects ,Automation Scripts, Graphics Design  ... 
 - 📫 How to reach me verifiedceejay@gmail.com 
