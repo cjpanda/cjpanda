@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Benedict Umenzekwe, 
-- 👀 I’m interested in Python , Javascript, CSS, HTML. 
-- ⚙️ I use daily: Python, HTML, CSS and Javascript 
-- 🤔 I’m looking for help with Building Web Development Projects on Django Web Applications. 
-- 💞️ I’m looking to collaborate on python projects like Django Web Development projects ,Automation Scripts, Graphics Design  ... 
+- 👋 Hi, I’m Benedict Umenzekwe A Full Stack Web Developer, 
+- 👀 I’m interested in Python , Javascript, CSS, HTML, Mongo DB, Express, Node.js, Angular. 
+- ⚙️ I use daily: Python, Javascript  
+- 💞️ I’m looking to collaborate on python and Javascript projects,Automation Scripts, Graphics Design  ... 
 - 📫 How to reach me verifiedceejay@gmail.com 
 
 <!---
