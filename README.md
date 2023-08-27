@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Benedict Umenzekwe, a Full Stack Web Developer with a strong focus on Front End Development. I bring expertise in working with modern web technologies and frameworks, and I'm passionate about delivering high-quality user experiences.
 
-## Skills and Expertise
+##  ⚙️ Skills and Expertise
 
 - **Front End Development**: Proficient in building responsive and interactive user interfaces using HTML, CSS, JavaScript, and modern frameworks like React.
 - **Back End Technologies**: Experienced in working with Node.js and Express.js for server-side development.
