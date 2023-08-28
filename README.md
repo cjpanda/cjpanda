@@ -1,4 +1,4 @@
-# Full Stack Web Developer
+# Full Stack(FrontEnd) Web Developer
 
 👋 Hi, I'm Benedict Umenzekwe, a Full Stack Web Developer with a strong focus on Front End Development. I bring expertise in working with modern web technologies and frameworks, and I'm passionate about delivering high-quality user experiences.
 
