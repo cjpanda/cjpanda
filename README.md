@@ -4,7 +4,7 @@
 
 ##  ⚙️ Skills and Expertise
 
-- **Front End Development**: Proficient in building responsive and interactive user interfaces using HTML, CSS, JavaScript, and modern frameworks like React.
+- **Front End Development**: Proficient in building responsive and interactive user interfaces using HTML, CSS, JavaScript, and modern frameworks like React, Nextjs tailwindcss.
 - **Back End Technologies**: Experienced in working with Node.js and Express.js for server-side development.
 - **Database Management**: Skilled in utilizing MongoDB for efficient data storage and retrieval.
 - **Web Frameworks**: Knowledgeable in React for building dynamic web applications.
@@ -14,10 +14,11 @@
 
 During my career, I've worked on a range of projects that highlight my technical abilities and dedication to creating exceptional web experiences. I've contributed to projects involving:
 
-- Translating Figam Designs to Fully Responsive Websites
+- Translating Figam Designs to Fully Responsive Websites (Landing Pages)
+- Full Stack web development 
 - Collaborative Python and JavaScript projects
-- Web applications leveraging Angular and React
-- Automation scripts to streamline workflows
+- Web applications leveraging React
+
 
 ## 🤙 Get in Touch
 
