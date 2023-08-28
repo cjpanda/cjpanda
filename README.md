@@ -10,7 +10,7 @@
 - **Web Frameworks**: Knowledgeable in React for building dynamic web applications.
 - **Optimization**: A problem solver at heart, I thrive on optimizing software performance to enhance user satisfaction.
 
-## Experience
+## 📚 Experience
 
 During my career, I've worked on a range of projects that highlight my technical abilities and dedication to creating exceptional web experiences. I've contributed to projects involving:
 
@@ -19,7 +19,7 @@ During my career, I've worked on a range of projects that highlight my technical
 - Web applications leveraging Angular and React
 - Automation scripts to streamline workflows
 
-## Get in Touch
+## 🤙 Get in Touch
 
 I'm always excited to collaborate on innovative projects and contribute to web development initiatives. If you're interested in discussing potential collaborations, web applications, or any development projects, feel free to reach out to me:
 
