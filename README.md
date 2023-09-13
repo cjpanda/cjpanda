@@ -1,5 +1,7 @@
 # Full Stack(FrontEnd) Web Developer
 
+![Screenshot (113)](https://github.com/cjpanda/cjpanda/assets/107156444/e113c7c9-b375-4a2b-a989-022e8620d261)
+
 👋 Hi, I'm Benedict Umenzekwe, a Full Stack Web Developer with a strong focus on Front End Development. I bring expertise in working with modern web technologies and frameworks, and I'm passionate about delivering high-quality user experiences.
 
 ##  ⚙️ Skills and Expertise
