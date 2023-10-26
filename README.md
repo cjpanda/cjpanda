@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Full stack and Front end Projects**
 
-- 👨‍💻 All of my projects are available at [https://cjpanda.github.io/MyPortfolio/](https://cjpanda.github.io/MyPortfolio/)
+- 👨‍💻 All of my projects are available at [https://cjpanda.github.io/MyPortfolio/projects](https://cjpanda.github.io/MyPortfolio/projects)
 
 - 📝 I regularly write articles on [https://techcityhq.com/](https://techcityhq.com/)
 
