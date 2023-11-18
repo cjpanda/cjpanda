@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cjpanda" alt="cjpanda" /></a> </p>
 
-- 🔭 I’m currently working on [The Odin Prject](https://github.com/cjpanda/TheOdinProject)
+- 🔭 I’m currently working on [The Odin Project](https://github.com/cjpanda/TheOdinProject)
 
 - 🌱 I’m currently learning **Fullstack Developement**
 
