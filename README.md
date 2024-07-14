@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [The Odin Project](https://github.com/cjpanda/TheOdinProject) and projects on Frontend Mentor
 
-- 🌱 I’m currently learning **Fullstack Developement**
+- 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on **Full stack and Front end Projects**
+- 👯 I’m looking to collaborate on **Full stack and Front-End and Mobile Application Projects**
 
 - 👨‍💻 All of my projects are available at [https://cjpanda.github.io/MyPortfolio/](https://cjpanda.github.io/MyPortfolio/)
 
